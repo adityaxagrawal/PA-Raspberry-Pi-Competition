@@ -14,5 +14,5 @@ We have selected:
 Project Aim: 
 
 ## Contribution Guidelines
-- Please open a PR for changes to be reviewed before merging.
+- Please open a PR (pull request) for changes to be reviewed before merging.
 - Ensure all tests pass before merging to ensure the `main` branch contains functional code.

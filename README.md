@@ -1,4 +1,4 @@
-# Raspberry Pi Competion
+# PA Raspberry Pi Competition
 
 ## Introduction
 
